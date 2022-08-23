@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qinhuansky
 - 👀 I’m interested in fishing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning front-web
 - 💞️ I’m looking to collaborate fishing friends
 - 📫 chuanqin.yeh@foxmail.com
