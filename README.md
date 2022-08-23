@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning front-web
 - 💞️ I’m looking to collaborate fishing friends
 - 📫 chuanqin.yeh@foxmail.com
-- 📫 https://qinhuanskys.gitee.io/qinsky
+- 🔍 https://qinhuanskys.gitee.io/qinsky
